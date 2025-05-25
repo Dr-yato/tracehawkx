@@ -1,0 +1,35 @@
+{
+  "hosts": [
+    {
+      "ip": "",
+      "hostname": "www.hunter3.ninja",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    }
+  ],
+  "vulnerabilities": null,
+  "patches": null,
+  "bleeding_edge": {},
+  "summary": {
+    "total_hosts": 1,
+    "alive_hosts": 0,
+    "total_ports": 0,
+    "open_ports": 0,
+    "total_vulns": 0,
+    "critical_vulns": 0,
+    "high_vulns": 0,
+    "medium_vulns": 0,
+    "low_vulns": 0,
+    "exploitable_vulns": 0,
+    "high_risk_vulns": 0,
+    "scan_duration": "",
+    "risk_score": 0,
+    "modules_executed": [
+      "subfinder",
+      "httpx",
+      "nmap",
+      "nuclei"
+    ]
+  }
+}

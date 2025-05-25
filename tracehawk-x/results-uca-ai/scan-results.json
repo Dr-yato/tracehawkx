@@ -1,0 +1,1693 @@
+{
+  "hosts": [
+    {
+      "ip": "",
+      "hostname": "ecampus-bbb.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "apps.flm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-documents.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-encg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsa.barid.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "oudaya.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "caawg10.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-etab.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cimas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsb.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ute.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "aisec.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cneree.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-cuks.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cimpa2013.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server4.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ma-palmes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-etab.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ucarech.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ced.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "bo.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "rh.fps.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ic5gsdg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-concours.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsa.fmp.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ourika.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "s178227.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "edu.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cg176023.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "anatomie-fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "candidaturemaster-fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsb.ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "old-learn.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ensapp.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "icramcs.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-cuks.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ced.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fssmapps178231.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "mx.barid.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.rh-ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "proxymgmt.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fdm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "res-fps.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "revpro.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-ens.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "exam.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-flam.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.webedx.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "jith2013.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "app-este.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ouca.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.e-concours.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fmpm.fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.apps-ests.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "bbbser.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsa.edu.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "rav.fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ensapp.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-ens.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-flam.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "apps178229.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "edu.flm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-este.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-mounassib.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server176021.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsb.ced.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "info.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.este.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "wd.fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-flsh.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "boserver.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "iaus393.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-student.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-ests.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "pmb.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "icamcs.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ucastudent.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "atlas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cnte2012.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-candidature.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.preinscription.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "icqfirm2014.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "yyy.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "enov.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www4.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "uca-bbb.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "appfssm.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "smtpserver.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fps.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-cloud.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.cedoc-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cg176023.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsb.edu.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ser178212.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "win7fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "serveur2.flm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.dhbw-uca.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-flsh.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ser176210.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "barid.ucamail.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-fps.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cipserver01.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "rdp.eoles.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-ensam.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ws.fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-este.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "osmose.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "vcsb.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "candidaturemaster-fst.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "revprox.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fmp.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-services.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "dhbw-uca.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cedoc-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ucacontact.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.iaus393.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "emaeval.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ucarech.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-palmes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "candidaturemaster-ens.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ucaskills.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-meet.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "este.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "colloque.thurifere5.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "flsh.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.e-candidature.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ent.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsb.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "barid.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server3.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "gestion-ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.e-services.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.flm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.exam.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "marrakech-astro.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsb.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server2.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "site.fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.apps.flm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.bo.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-scolarite.fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ensa-marrakech.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "these.fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "preins-fsjesk.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-fps.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "rh-ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cuks.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "mod-trans.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "sco.fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "flm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-ensam.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ucaskills.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server1.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server6.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "idp.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "eaio.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsa.ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.e-student.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cmcp.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "dmzfw.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsa.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "eduvpn.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "peda.fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ucastudent.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fox.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "minfo.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "bourse.fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ecampus-ests.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server.eoles.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "win.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "referentiels.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "web.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "server1.ests.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www1.fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsb.fmp.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "hostingsrv18.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "gexam-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "c2i.fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fssmapps3.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "learn.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.sco.fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ucacontact.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "learn1.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsa.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "vcsa.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ests.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fmpserver.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "scolarite-fps.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "elives.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "imdm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "alhabl.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-encg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.uca-bbb.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "bbb.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cru.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "palmes.info.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-ensas.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ouca.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "resultats.este.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "scolarite-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.e-documents.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "tema.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ucamooc.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "exao-svt.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fmpm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "cg.fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "yyy.este.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "apps-ests.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "nsa.cuks.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "syges-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "fstg.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "euromaghrebianworkshop9.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.fdm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "oudaya.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "emploi-fssm.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "ecampus-cloud.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "www.res-fps.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "waterbiotech.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    },
+    {
+      "ip": "",
+      "hostname": "e-apps.fsjes.uca.ma",
+      "ports": [],
+      "services": [],
+      "webapps": []
+    }
+  ],
+  "vulnerabilities": null,
+  "patches": null,
+  "bleeding_edge": {},
+  "summary": {
+    "total_hosts": 237,
+    "alive_hosts": 0,
+    "total_ports": 0,
+    "open_ports": 0,
+    "total_vulns": 0,
+    "critical_vulns": 0,
+    "high_vulns": 0,
+    "medium_vulns": 0,
+    "low_vulns": 0,
+    "exploitable_vulns": 0,
+    "high_risk_vulns": 0,
+    "scan_duration": "",
+    "risk_score": 0,
+    "modules_executed": [
+      "subfinder",
+      "httpx",
+      "nmap",
+      "nuclei",
+      "blue-team",
+      "timing-map",
+      "llm-fuzzer",
+      "dep-drift",
+      "auto-patch",
+      "shadow-clone"
+    ]
+  }
+}
