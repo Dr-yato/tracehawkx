@@ -22,7 +22,7 @@ TraceHawk X is a comprehensive penetration testing toolkit that performs end-to-
 
 ```bash
 # Clone the repository
-git clone https://github.com/hunter3ninja/tracehawkx.git
+git clone https://github.com/Dr-yato/tracehawkx.git
 cd tracehawkx
 
 # Build the binary
